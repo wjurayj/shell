@@ -1,0 +1,99 @@
+Shell 1 tests:
+Testing /gpfs/main/home/wjurayj/course/cs0330/shell_2/33noprompt
+Report:
+	cd: Failed (0/4)
+	blank_line: Passed (1/1)
+	prefix_append_single_arg: Failed (0/1)
+	prefix_append_multi_args: Failed (0/1)
+	prefix_append_no_args: Failed (0/1)
+	single_command_no_args: Failed (0/4)
+	builtin_too_few_args: Failed (0/2)
+	simple_output_single_arg: Failed (0/1)
+	simple_input_no_args: Failed (0/1)
+	infix_append_multi_args: Failed (0/2)
+	truncate: Failed (0/1)
+	ln: Failed (0/4)
+	input_append: Failed (0/4)
+	system: Failed (0/10)
+	simple_output_no_args: Failed (0/1)
+	exit: Passed (3/3)
+	multiple_commands_multiple_args: Failed (0/4)
+	rm: Failed (0/4)
+	prefix_input_no_args: Failed (0/1)
+	multi_commands_no_args: Failed (0/4)
+	prefix_input_single_arg: Failed (0/1)
+	simple_output_multi_args: Failed (0/1)
+	simple_append_no_args: Failed (0/1)
+	infix_output_single_arg: Failed (0/2)
+	prefix_output_single_arg: Failed (0/1)
+	simple_append_single_arg: Failed (0/1)
+	prefix_input_multi_args: Failed (0/1)
+	infix_append_single_arg: Failed (0/2)
+	simple_input_multi_args: Failed (0/1)
+	no_input: Passed (1/1)
+	simple_input_single_arg: Failed (0/1)
+	simple_append_multi_args: Failed (0/1)
+	whitespace: Failed (0/5)
+	single_command_multi_args: Failed (0/4)
+	multi_commands_single_arg: Failed (0/4)
+	input_output: Failed (0/4)
+	infix_input_multi_args: Failed (0/2)
+	infix_output_multi_args: Failed (0/2)
+	infix_input_single_arg: Failed (0/2)
+	prefix_output_no_args: Failed (0/1)
+	single_command_single_arg: Failed (0/4)
+	prefix_output_multi_args: Failed (0/1)
+	builtin_too_many_args: Failed (0/2)
+--------------------
+Total: 5/99
+
+
+All shell processes belonging to you have been quit!
+For more options, see -h
+Running trace 1: PASS
+Running trace 2: PASS
+Running trace 3: PASS
+Running trace 4: PASS
+Running trace 5: PASS
+Running trace 6: PASS
+Running trace 7: PASS
+Running trace 8: PASS
+Running trace 9: PASS
+Running trace 10: PASS
+Running trace 11: PASS
+Running trace 12: PASS
+Running trace 13: PASS
+Running trace 14: PASS
+Running trace 15: PASS
+Running trace 16: PASS
+Running trace 17: PASS
+Running trace 18: PASS
+Running trace 19: PASS
+Running trace 20: PASS
+Running trace 21: PASS
+Running trace 22: PASS
+Running trace 23: PASS
+Running trace 24: PASS
+Running trace 25: PASS
+Running trace 26: PASS
+Running trace 27: PASS
+Running trace 28: PASS
+Running trace 29: PASS
+Running trace 30: PASS
+Running trace 31: PASS
+Running trace 32: PASS
+Running trace 33: PASS
+Running trace 34: PASS
+Running trace 35: PASS
+Running trace 36: PASS
+Running trace 37: PASS
+Running trace 38: PASS
+Running trace 39: PASS
+Running trace 40: PASS
+Running trace 41: PASS
+Running trace 42: PASS
+Running trace 43: PASS
+37 correct of 43 traces run.
+
+To see detailed input/output for a specific trace, run:
+	 <shell_2_tester> -s <your_shell> -t <trace_num> -v\
